@@ -3,6 +3,6 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
-	--accentcolor: 163,47,194;		/* blurple - default: 114,137,218 */
-	--linkcolor: 190,60,220;		/* link - default: 0,176,244 */
+	--accentcolor: 224,8,8;		/* blurple - default: 249,9,9 */
+	--linkcolor: 29,172,242;		/* link - default: 0,176,244 */
 }
